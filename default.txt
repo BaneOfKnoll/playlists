@@ -1,0 +1,3 @@
+#Default playlist that plays when the bot joins the channel. Please don't change this without asking. 
+#https://www.youtube.com/watch?v=xNjyG8S4_kI
+P:\Music\Daft Punk\Daft Punk - Random Access Memories\01 give life back to music.flac
