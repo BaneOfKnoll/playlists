@@ -1,0 +1,11 @@
+#local doom playlist
+
+
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\01 - Mick Gordon - I. DOGMA.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\02 - Mick Gordon - Rip & Tear.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\03 - Mick Gordon - At Doom’s Gate.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\04 - Mick Gordon - Rust, Dust & Guts.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\05 - Mick Gordon - II. DEMIGOD.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\06 - Mick Gordon - Hellwalker.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\07 - Mick Gordon - Authorization; Olivia Pierce.flac"
+"P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\08 - Mick Gordon - Flesh & Metal.flac"
