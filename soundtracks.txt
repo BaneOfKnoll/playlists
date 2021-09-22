@@ -1,0 +1,370 @@
+#Movie and game soundtracks
+
+//shuffle
+
+
+#Tenet
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Rainy Night in Tallinn.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Windmills.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Meeting Neil.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Priya.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Betrayal.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Freeport.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - 747.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - From Mumbai to Amalfi.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Foils.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Sator.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Trucks In Place.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Red Room Blue Room.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Inversion.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Retrieving the Case.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - The Algorithm.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Posterity.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - The Protagonist.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Travis Scott - The Plan.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Fast Cars (Bonus Track).flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Turnstile (Bonus Track).flac
+
+#Star Wars The Ultimate Soundtrack Collection
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\801-john_williams-20th_century_fox_fanfare_(alfred_newman_1954).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Star Wars Main Title And The Arrival At Naboo.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Duel Of The Fates.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin's Theme.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jar Jar's Introduction And The Swim To Otoh Gunga.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Sith Spacecraft And The Droid Battle.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Trip To The Naboo Temple And The Audience With Boss Nass.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Arrival At Tatooine And The Flag Parade.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - He Is The Chosen One.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin Defeats Sebulba.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Passage Through The Planet Core.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Watto's Deal And Kids At Play.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Panaka And The Queen's Protectors.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Queen Amidala And The Naboo Palace.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Droid Invasion And The Appearance Of Darth Maul.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Qui-Gon's Noble End.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The High Council Meeting And Qui-Gon's Funeral.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Augie's Great Municipal Band And End Credits.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Star Wars Main Title And Ambush On Coruscant.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Across The Stars (Love Theme From Star Wars Episode II).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Zam The Assassin And The Chase Through Coruscant.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Yoda And The Younglings.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Departing Coruscant.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin And Padm?.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jango's Escape.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Meadow Picnic.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Bounty Hunter's Pursuit.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Return To Tatooine.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Tusken Camp And The Homestead.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Love Pledge And The Arena.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Confrontation With Count Dooku And Finale.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Star Wars And The Revenge Of The Sith.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin's Dream.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Battle Of The Heroes.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin's Betrayal.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - General Grievous.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Palpatine's Teachings.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Grievous And The Droids.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Padme's Ruminations.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin vs. Obi-Wan.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin's Dark Deeds.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Enter Lord Vader.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Immolation Scene.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Grievous Speaks To Lord Sidious.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Birth Of The Twins And Padme's Destiny.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - A New Hope And End Credits.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - 20th Century Fox Fanfare (Alfred Newman, 1954).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Main Title  Rebel Blockade Runner.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Imperial Attack.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Dune Sea Of Tatooine  Jawa Sandcrawler.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Moisture Farm.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Hologram  Binary Sunset.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Landspeeder Search  Attack Of The Sand People.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Tales Of A Jedi Knight  Learn About The Force.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Burning Homestead.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Mos Eisley Spaceport.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Cantina Band.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Cantina Band #2.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Binary Sunset (Alternate).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Princess Leia's Theme.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Destruction Of Alderaan.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Millennium Falcon  Imperial Cruiser Pursuit.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Death Star  The Stormtroopers.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Wookie Prisoner  Detention Block Ambush.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Shootout In The Cell Bay  Dianoga.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Trash Compactor.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Tractor Beam  Chasm Crossfire.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Ben Kenobi's Death  TIE Fighter Attack.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Yavin (Launch From The Fourth Moon  X-Wings Draw Fire  Use The Force).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Throne Room  End Title.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Main Title  The Ice Planet Hoth.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Wampa's Lair  Vision Of Obi-Wan  Snowspeeders Take Flight.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Imperial Probe  Aboard The Executor.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Hoth.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Asteroid Field.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Arrival On Dagobah.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Luke's Nocturnal Visitor.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Han Solo And The Princess.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jedi Master Revealed  Mynock Cave.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Training Of A Jedi Knight  The Magic Tree.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Imperial March (Darth Vader's Theme).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Yoda's Theme.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Attacking A Star Destroyer.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Yoda And The Force.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Imperial Starfleet Deployed  City In The Clouds.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Lando's Palace.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Betrayal At Bespin.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Deal With Dark Lord.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Carbon Freeze  Darth Vader's Trap  Departure Of Boba Fett.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Clash Of Lightsabers.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Rescue From Cloud City  Hyperspace.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Rebel Fleet  End Title.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Main Title  Approaching The Death Star  Tatooine Rendezvous.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Droids Are Captured.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Bounty For A Wookiee.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Han Solo Returns.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Luke Confronts Jabba  Den Of The Rancor  Sarlacc Sentence.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Pit Of Carkoon  Sail Barge Assault.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Emperor Arrives  The Death Of Yoda  Obi-Wan's Revelation.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Alliance Assembly.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Shuttle Tydirium Approaches Endor.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Speeder Bike Chase  Land Of The Ewoks.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Levitation  Threepio's Bedtime Story.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jabba's Baroque Recital.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jedi Rocks.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Sail Barge Assault (Alternate).flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Parade Of The Ewoks.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Luke And Leia.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Brother And Sister  Father And Son  The Fleet Enters Hyperspace  Heroic Ewok.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Emperor's Throne Room.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Endor I.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Lightsaber  The Ewok Battle.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Endor II.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Endor III.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Leia's News  Light Of The Force.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Victory Celebration  End Title.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Ewok Feast  Part Of The Tribe.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Forest Battle (Concert Suite).flac
+
+
+#inception
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Half Remembered Dream.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - We Built Our Own World.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Dream Is Collapsing.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Radical Notion.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Old Souls.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - 528491.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Mombasa.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - One Simple Idea.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Dream Within A Dream.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Waiting For A Train.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Paradox.flac
+P:\Music\Hans Zimmer-Inception Music From The Motion Picture\Hans Zimmer - Time.flac
+
+#interstellar
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Dreaming Of The Crash.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Cornfield Chase.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Dust.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Day One.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Stay.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Message From Home.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - The Wormhole.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Mountains.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Afraid Of Time.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - A Place Among The Stars.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Running Out.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - I'm Going Home.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Coward.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Detach.flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - S.T.A.Y..flac
+P:\Music\Hans Zimmer Interstellar OST\Hans Zimmer - Where We're Going.flac
+
+#Wonder Woman 1984
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Themyscira.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Games.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - 1984.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Black Gold.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Wish We Had More Time.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - The Stone.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Cheetah.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Fireworks.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Anything You Want.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Open Road.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Without Armor.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - The White House.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Already Gone.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Radio Waves.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Lord of Desire.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - The Beauty in What Is.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Truth.flac
+P:\Music\Hans Zimmer - Wonder Woman 1984 OST\Hans Zimmer - Lost and Found.flac
+
+# The thing
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Humanity (Part I).flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Shape.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Contamination.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Bestiality.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Solitude.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Eternity.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Wait.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Humanity (Part II).flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Sterilization.flac
+P:\Music\Ennio Morricone-The Thing\Ennio Morricone - Despair.flac
+
+#Back 2 the future
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Main Title.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - The Future.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Hoverboard Chase.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - A Flying Delorean.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - My Father!.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Alternate 1985.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - If They Ever Did.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Pair O' Docs.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - The Book.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Tunnel Chase.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Burn The Book.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - Western Union.flac
+P:\Music\Alan Silvestri-Back To The Future Part II-Original Motion Picture Soundtrack\Alan Silvestri - End Title.flac
+
+
+#LOTR Fellowship
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\101-howard_shore-prologue_one_ring_to_rule_them_all.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\102-howard_shore-the_shire.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\103-howard_shore-bag_end.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\104-howard_shore-very_old_friends.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\105-howard_shore-flaming_red_hair.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\106-howard_shore-farewell_dear_bilbo.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\107-howard_shore-keep_it_secret_keep_it_safe.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\108-howard_shore-a_conspiracy_unmasked.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\109-howard_shore-three_is_company.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\110-howard_shore-the_passing_of_the_elves.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\111-howard_shore-saruman_the_white.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\112-howard_shore-a_shortcut_to_mushrooms.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\113-howard_shore-strider.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\114-howard_shore-the_nazgul.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\201-howard_shore-weathertop.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\202-howard_shore-the_caverns_of_isengard.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\203-howard_shore-give_up_the_halfling.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\204-howard_shore-orthanc.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\205-howard_shore-rivendell.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\206-howard_shore-the_sword_that_was_broken.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\207-enya-the_council_of_elrond_assembles_(feat._aniron_(theme_for_aragorn_and_arwen)).flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\208-howard_shore-the_great_eye.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\209-howard_shore-gilraens_memorial.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\210-howard_shore-the_pass_of_caradhras.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\211-howard_shore-the_doors_of_durin.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\212-howard_shore-moria.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\213-howard_shore-gollum.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\214-howard_shore-balins_tomb.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\301-howard_shore-khazad-dum.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\302-howard_shore-caras_galadhon_(feat._lament_for_gandalf).flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\303-howard_shore-the_mirror_of_galadriel.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\304-howard_shore-the_fighting_uruk-hai.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\305-howard_shore-parth_galen.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\306-howard_shore-the_departure_of_boromir.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\307-howard_shore-the_road_goes_ever_on_part_1.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\308-enya-may_it_be.flac
+P:\Music\Howard Shore- The Lord Of The Rings The Fellowship Of The Ring\309-edward_ross-the_road_goes_ever_on_part_2_(feat._in_dreams).flac
+
+#Lotr two towers
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Glamdring.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Elven Rope.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Lost In Emyn Muil.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - My Precious.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Ugl?k's Warriors.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Three Hunters.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Banishment Of ?omer.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Night Camp.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Plains Of Rohan.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Fangorn.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Dead Marshes.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - ''Wraiths On Wings''.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Gandalf The White.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Dreams Of Trees.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Heir Of N?menor.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Ent-Draught.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Edoras.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Court Of Meduseld.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Th?oden King Featuring ''The Funeral Of Th?odred'' Performed by Miranda Otto.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The King's Decision.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Exodus From Edoras.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Forests Of Ithilien.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - One Of The D?nedain Featuring ''Evenstar'' Performed by Isabel Bayrakdarian.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Wolves Of Isengard.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Refuge At Helms Deep.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Voice Of Saruman.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Arwen's Fate Featuring ''The Grace Of The Valar'' Performed by Sheila Chandra.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Story Foretold.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Sons Of The Steward.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Rock And Pool.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Faramir's Good Council.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Aragorn's Return.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - War Is Upon Us.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - ''Where Is The Horse And The Rider''.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Host Of The Eldar.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Battle Of The Hornburg.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Breach Of The Deeping Wall.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Entmoot Decides.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Retreat Featuring ''Haldir's Lament'' Performed by Elizabeth Fraser.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Master Peregrin's Plan.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Last March Of The Ents Featuring Ben Del Maestro.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Nazg?l Attack.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Th?oden Rides Forth Featuring Ben Del Maestro.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Tales That Really Matter.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - ''Long Ways To Go Yet'' Featuring ''Gollum's Song'' Performed by Emiliana Torrini.flac
+
+#LOTR return of the King
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Roots And Beginnings.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Journey To The Crossroads.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Road To Isengard.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Foot Of Orthanc.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Return To Edoras.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Chalice Passed.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Green Dragon.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Gollum's Villainy.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Eowyn's Dream.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Palantir.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Flight From Edoras.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Grace Of Und?miel.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Eyes Of The White Tower.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - A Coronal Of Silver And Gold.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Lightning Of The Beacons.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Osgilliath Invaded.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Stairs Of Cirith Ungol.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Allegiance To Denethor.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Sacrifice Of Faramir.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Parting Of Sam And Frodo.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Marshalling At Dunharrow.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - And?ril - Flame Of The West.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Passing Of The Grey Company.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Dwimorberg - The Haunted Mountain.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Master Meriadoc, Swordthain.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Paths Of The Dead.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Siege Of Gondor.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Shelob's Lair.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Merry's Simple Courage.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Grond - The Hammer Of The Underworld.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Shelob The Great.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Tomb Of The Stewards.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Battle Of The Pelennor Fields.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Pyre Of Denethor.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The M?makil.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Dernhelm In Battle.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - ''A Far Green Country''.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Shieldmaiden Of Rohan.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Passing Of Th?oden.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The House Of Healing.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Tower Of Cirith Ungol.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Last Debate.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Land Of Shadow.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Mouth Of Sauron.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - ''For Frodo''.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Mount Doom.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Crack Of Doom.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Eagles.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Fellowship Reunited.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Journey To The Grey Havens.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Elanor.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Days Of The Ring.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Bilbo's Song.flac
+
+#
