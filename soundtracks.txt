@@ -4,26 +4,26 @@
 
 
 #Tenet
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Rainy Night in Tallinn.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Windmills.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Meeting Neil.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Priya.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Betrayal.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Freeport.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - 747.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - From Mumbai to Amalfi.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Foils.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Sator.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Trucks In Place.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Red Room Blue Room.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Inversion.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Retrieving the Case.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - The Algorithm.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Posterity.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - The Protagonist.flac
 P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Travis Scott - The Plan.flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Fast Cars (Bonus Track).flac
-P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig G?ransson - Turnstile (Bonus Track).flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Sator.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - The Algorithm.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - The Protagonist.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Trucks In Place.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Turnstile (Bonus Track).flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Windmills.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - 747.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Betrayal.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Fast Cars (Bonus Track).flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Foils.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Freeport.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - From Mumbai to Amalfi.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Inversion.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Meeting Neil.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Posterity.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Priya.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Rainy Night in Tallinn.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Red Room Blue Room.flac
+P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Retrieving the Case.flac
 
 #Star Wars The Ultimate Soundtrack Collection
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\801-john_williams-20th_century_fox_fanfare_(alfred_newman_1954).flac
@@ -49,7 +49,7 @@ P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Willi
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Zam The Assassin And The Chase Through Coruscant.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Yoda And The Younglings.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Departing Coruscant.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin And Padm?.flac
+P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin And Padm.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jango's Escape.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Meadow Picnic.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Bounty Hunter's Pursuit.flac
@@ -270,9 +270,8 @@ P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordi
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Elven Rope.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Lost In Emyn Muil.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - My Precious.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Ugl?k's Warriors.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Three Hunters.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Banishment Of ?omer.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Banishment Of Eomer.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Night Camp.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Plains Of Rohan.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Fangorn.flac
@@ -280,15 +279,12 @@ P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordi
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - ''Wraiths On Wings''.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Gandalf The White.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Dreams Of Trees.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Heir Of N?menor.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Ent-Draught.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Edoras.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Court Of Meduseld.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Th?oden King Featuring ''The Funeral Of Th?odred'' Performed by Miranda Otto.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The King's Decision.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Exodus From Edoras.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Forests Of Ithilien.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - One Of The D?nedain Featuring ''Evenstar'' Performed by Isabel Bayrakdarian.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Wolves Of Isengard.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Refuge At Helms Deep.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Voice Of Saruman.flac
@@ -307,10 +303,15 @@ P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordi
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Retreat Featuring ''Haldir's Lament'' Performed by Elizabeth Fraser.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Master Peregrin's Plan.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Last March Of The Ents Featuring Ben Del Maestro.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Nazg?l Attack.flac
-P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Th?oden Rides Forth Featuring Ben Del Maestro.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Tales That Really Matter.flac
 P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - ''Long Ways To Go Yet'' Featuring ''Gollum's Song'' Performed by Emiliana Torrini.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Theoden King Featuring ''The Funeral Of Theodred'' Performed by Miranda Otto.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Theoden Rides Forth Featuring Ben Del Maestro.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Heir Of Numenor.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - Ugluk's Warriors.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - One Of The Dunedain Featuring ''Evenstar'' Performed by Isabel Bayrakdarian.flac
+P:\Music\Howard Shore-The Lord Of The Rings  The Two Towers The Complete Recordings\Howard Shore - The Nazgul Attack.flac
+
 
 #LOTR return of the King
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Roots And Beginnings.flac
@@ -324,7 +325,6 @@ P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete 
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Eowyn's Dream.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Palantir.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Flight From Edoras.flac
-P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Grace Of Und?miel.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Eyes Of The White Tower.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - A Coronal Of Silver And Gold.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Lightning Of The Beacons.flac
@@ -334,7 +334,6 @@ P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete 
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Sacrifice Of Faramir.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Parting Of Sam And Frodo.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Marshalling At Dunharrow.flac
-P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - And?ril - Flame Of The West.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Passing Of The Grey Company.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Dwimorberg - The Haunted Mountain.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Master Meriadoc, Swordthain.flac
@@ -347,11 +346,10 @@ P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete 
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Tomb Of The Stewards.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Battle Of The Pelennor Fields.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Pyre Of Denethor.flac
-P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The M?makil.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Dernhelm In Battle.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - ''A Far Green Country''.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Shieldmaiden Of Rohan.flac
-P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Passing Of Th?oden.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Passing Of Theoden.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The House Of Healing.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Tower Of Cirith Ungol.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Last Debate.flac
@@ -366,5 +364,9 @@ P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete 
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Elanor.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Days Of The Ring.flac
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Bilbo's Song.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Mumakil.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - The Grace Of Undomiel.flac
+P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Anduril - Flame Of The West.flac
+
 
 #
