@@ -1,7 +1,6 @@
 #local doom playlist
 
 
-P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\01 - Mick Gordon - I. DOGMA.flac
 P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\02 - Mick Gordon - Rip & Tear.flac
 P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\03 - Mick Gordon - At Doom’s Gate.flac
 P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\04 - Mick Gordon - Rust, Dust & Guts.flac
@@ -9,3 +8,88 @@ P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\05 - Mick Gordo
 P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\06 - Mick Gordon - Hellwalker.flac
 P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\07 - Mick Gordon - Authorization; Olivia Pierce.flac
 P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\08 - Mick Gordon - Flesh & Metal.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\09 - Mick Gordon - Impure Spectrum.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\10 - Mick Gordon - Ties That Bind.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\11 - Mick Gordon - BFG Division.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\12 - Mick Gordon - Residual.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\13 - Mick Gordon - Argent Energy.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\14 - Mick Gordon - Harbinger.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\15 - Mick Gordon - Biowaves.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 1\16 - Mick Gordon & Chad Mossholder - Olivia?s Doom (Chad Mossholder remix).flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\01 - Mick Gordon - Transistor Fist.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\02 - Mick Gordon - Dr. Samuel Hayden.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\03 - Mick Gordon - Cyberdemon.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\04 - Mick Gordon - Incantation.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\05 - Mick Gordon - III. DAKHMA.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\06 - Mick Gordon - Damnation.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\07 - Mick Gordon - The Stench.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\08 - Mick Gordon - UAC Report File; SHTO36U3.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\09 - Mick Gordon - Death & Exhale.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\10 - Mick Gordon - SkullHacker.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\11 - Mick Gordon - Lazarus Waves.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\12 - Mick Gordon - VEGA Core.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\13 - Mick Gordon & Chris Hite - 6_idkill.vega.cih (Chris Hite remix).flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\14 - Mick Gordon - Mastermind.flac
+P:\Music\Mick Gordon\DOOM 2016 (Original Game Soundtrack)\Disc 2\15 - Mick Gordon - IV. DOOM.flac
+
+
+#doom eternal 
+P:\Music\Mick Gordon\Doom Eternal OST\01. Hell On Earth.flac
+P:\Music\Mick Gordon\Doom Eternal OST\02. Cultist Base.flac
+P:\Music\Mick Gordon\Doom Eternal OST\03. Blood Harvesting.flac
+P:\Music\Mick Gordon\Doom Eternal OST\04. Soul Extraction.flac
+P:\Music\Mick Gordon\Doom Eternal OST\05. BFG Division 2020.flac
+P:\Music\Mick Gordon\Doom Eternal OST\06. Metal Hell.flac
+P:\Music\Mick Gordon\Doom Eternal OST\07. Paradise Lost.flac
+P:\Music\Mick Gordon\Doom Eternal OST\08. Urdak.flac
+P:\Music\Mick Gordon\Doom Eternal OST\09. The Doom Hunter.flac
+P:\Music\Mick Gordon\Doom Eternal OST\10. Infiltrate the Cult.flac
+P:\Music\Mick Gordon\Doom Eternal OST\11. Cultist Prayer.flac
+P:\Music\Mick Gordon\Doom Eternal OST\12. Demonic Corruption .flac
+P:\Music\Mick Gordon\Doom Eternal OST\13. Maykr Drones.flac
+P:\Music\Mick Gordon\Doom Eternal OST\14. The Khan Maykr (Chad Mossholder remix).flac
+P:\Music\Mick Gordon\Doom Eternal OST\15. Deag Ranak.flac
+P:\Music\Mick Gordon\Doom Eternal OST\16. Mars Core.flac
+P:\Music\Mick Gordon\Doom Eternal OST\17. Deag Nilox - First Priest Death.flac
+P:\Music\Mick Gordon\Doom Eternal OST\18. The Icon of Sin.flac
+P:\Music\Mick Gordon\Doom Eternal OST\19. Phobos Space.flac
+P:\Music\Mick Gordon\Doom Eternal OST\20. A Slayer City.flac
+P:\Music\Mick Gordon\Doom Eternal OST\21. The Super Gore Nest.flac
+P:\Music\Mick Gordon\Doom Eternal OST\22. The Only Thing They Fear Is You.flac
+P:\Music\Mick Gordon\Doom Eternal OST\23. Asteroids and Rockets.flac
+P:\Music\Mick Gordon\Doom Eternal OST\24. You Can_t Just Shoot A Hole Into The surface of Mars.flac
+P:\Music\Mick Gordon\Doom Eternal OST\25. Doom Hunted.flac
+P:\Music\Mick Gordon\Doom Eternal OST\26. Blood Sacrifice.flac
+P:\Music\Mick Gordon\Doom Eternal OST\27. Welcome Home Great Slayer.flac
+P:\Music\Mick Gordon\Doom Eternal OST\28. Prayer of the Diminished.flac
+P:\Music\Mick Gordon\Doom Eternal OST\29. Gladiator Boss.flac
+P:\Music\Mick Gordon\Doom Eternal OST\30. Beast of the Arena.flac
+P:\Music\Mick Gordon\Doom Eternal OST\31. Fortress of Doom - Chad Mossholder.flac
+P:\Music\Mick Gordon\Doom Eternal OST\32. Revenant Possession.flac
+P:\Music\Mick Gordon\Doom Eternal OST\33. Usuper Gore.flac
+P:\Music\Mick Gordon\Doom Eternal OST\34. Sinister.flac
+P:\Music\Mick Gordon\Doom Eternal OST\35. Super Shotgun Reunion.flac
+P:\Music\Mick Gordon\Doom Eternal OST\36. The Baron of Hell.flac
+P:\Music\Mick Gordon\Doom Eternal OST\37. Doomed Hunter.flac
+P:\Music\Mick Gordon\Doom Eternal OST\38. Command and Control.flac
+P:\Music\Mick Gordon\Doom Eternal OST\39. BFG 10k.flac
+P:\Music\Mick Gordon\Doom Eternal OST\40. Sams Base.flac
+P:\Music\Mick Gordon\Doom Eternal OST\41. Phobos Base.flac
+P:\Music\Mick Gordon\Doom Eternal OST\42. Acquiring the BFG.flac
+P:\Music\Mick Gordon\Doom Eternal OST\43. Heart of the Beast.flac
+P:\Music\Mick Gordon\Doom Eternal OST\44. Consumption.flac
+P:\Music\Mick Gordon\Doom Eternal OST\45. Bio-organic Continuum Gate.flac
+P:\Music\Mick Gordon\Doom Eternal OST\46. Massive Demonic Presence.flac
+P:\Music\Mick Gordon\Doom Eternal OST\47. Armored Response Coalition .flac
+P:\Music\Mick Gordon\Doom Eternal OST\48. Kalibas the Sightless Judge.flac
+P:\Music\Mick Gordon\Doom Eternal OST\49. S.O.S. from Earth.flac
+P:\Music\Mick Gordon\Doom Eternal OST\50. Barging In.flac
+P:\Music\Mick Gordon\Doom Eternal OST\51. Taras Nabad.flac
+P:\Music\Mick Gordon\Doom Eternal OST\52. King Novik.flac
+P:\Music\Mick Gordon\Doom Eternal OST\53. The Khan Maykr (Chad Mossholder Remix).flac
+P:\Music\Mick Gordon\Doom Eternal OST\54. Meathook.flac
+P:\Music\Mick Gordon\Doom Eternal OST\55. Eternal Prophecy.flac
+P:\Music\Mick Gordon\Doom Eternal OST\56. The Betrayer.flac
+P:\Music\Mick Gordon\Doom Eternal OST\57. Doom Eternal.flac
+P:\Music\Mick Gordon\Doom Eternal OST\58. End of Level.flac
+P:\Music\Mick Gordon\Doom Eternal OST\59. Final Sin - Sandy City.flac
