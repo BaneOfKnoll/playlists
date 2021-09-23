@@ -369,4 +369,28 @@ P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete 
 P:\Music\Howard Shore-The Lord Of The Rings The Return Of The King The Complete Recordings\Howard Shore - Anduril - Flame Of The West.flac
 
 
+#Tron Legacy
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\01-daft_punk-overture.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\02-daft_punk-the_grid_(feat._jeff_bridges).flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\03-daft_punk-the_son_of_flynn.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\04-daft_punk-recognizer.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\05-daft_punk-armory.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\06-daft_punk-arena.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\07-daft_punk-rinzler.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\08-daft_punk-the_game_has_changed.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\09-daft_punk-outlands.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\10-daft_punk-adagio_for_tron.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\11-daft_punk-nocturne.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\12-daft_punk-end_of_line.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\13-daft_punk-derezzed.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\14-daft_punk-fall.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\15-daft_punk-solar_sailer.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\16-daft_punk-rectifier.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\17-daft_punk-disc_wars.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\18-daft_punk-c.l.u..flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\19-daft_punk-arrival.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\20-daft_punk-flynn_lives.flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\21-daft_punk-tron_legacy_(end_titles).flac
+P:\Music\Daft Punk\Daft Punk - TRON Legacy\22-daft_punk-finale.flac
+
 #
