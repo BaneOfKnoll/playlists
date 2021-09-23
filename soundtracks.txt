@@ -393,4 +393,58 @@ P:\Music\Daft Punk\Daft Punk - TRON Legacy\20-daft_punk-flynn_lives.flac
 P:\Music\Daft Punk\Daft Punk - TRON Legacy\21-daft_punk-tron_legacy_(end_titles).flac
 P:\Music\Daft Punk\Daft Punk - TRON Legacy\22-daft_punk-finale.flac
 
-#
+#Avengers endgame
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Totally Fine.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Arrival.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Where Are They.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Becoming Whole Again.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - I Figured It Out.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Perfectly Not Confusing.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - You Shouldn't Be Here.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - The How Works.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - One Shot.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Snap Out Of It.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - So Many Stairs.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Watch Each Other's Six.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - I Can't Risk This.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - He Gave It Away.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - The Tool Of A Thief.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - The Measure Of A Hero.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - In Plain Sight.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Whatever It Takes.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Not Good.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - I Was Made For This.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Tres Amigos.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Worth It.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Portals.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - The One.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - You Did Good.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - The Real Hero.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Go Ahead.flac
+P:\Music\Alan Silvestri-Avengers Endgame-Original Motion Picture Soundtrack\Alan Silvestri - Main On End.flac
+
+#infinity War 
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - The Avengers.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Travel Delays.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Undying Fidelity.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - He Won't Come Out.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - We Both Made Promises.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Help Arrives.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Hand Means Stop.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - You Go Right.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Family Affairs.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - What More Could I Lose.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - A Small Price.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Even For You.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - More Power.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Charge!.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Forge.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Catch.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Haircut And Beard.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - A Lot To Figure Out.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - The End Game.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - I Feel You.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - What Did It Cost.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Porch.flac
+P:\Music\Alan Silvestri-Avengers Infinity War-Original Motion Picture Soundtrack\Alan Silvestri - Infinity War.flac
+
