@@ -26,7 +26,6 @@ P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goran
 P:\Music\Ludwig Goeransson-Tenet-Original Motion Picture Soundtrack\Ludwig Goransson - Retrieving the Case.flac
 
 #Star Wars The Ultimate Soundtrack Collection
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\801-john_williams-20th_century_fox_fanfare_(alfred_newman_1954).flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Star Wars Main Title And The Arrival At Naboo.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Duel Of The Fates.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Anakin's Theme.flac
@@ -78,9 +77,7 @@ P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Willi
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Dune Sea Of Tatooine  Jawa Sandcrawler.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Moisture Farm.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Hologram  Binary Sunset.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Landspeeder Search  Attack Of The Sand People.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Tales Of A Jedi Knight  Learn About The Force.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Burning Homestead.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Mos Eisley Spaceport.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Cantina Band.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Cantina Band #2.flac
@@ -114,35 +111,22 @@ P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Willi
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Lando's Palace.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Betrayal At Bespin.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Deal With Dark Lord.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Carbon Freeze  Darth Vader's Trap  Departure Of Boba Fett.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Clash Of Lightsabers.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Rescue From Cloud City  Hyperspace.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Rebel Fleet  End Title.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Main Title  Approaching The Death Star  Tatooine Rendezvous.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Droids Are Captured.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Bounty For A Wookiee.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Han Solo Returns.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Luke Confronts Jabba  Den Of The Rancor  Sarlacc Sentence.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Pit Of Carkoon  Sail Barge Assault.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Emperor Arrives  The Death Of Yoda  Obi-Wan's Revelation.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Alliance Assembly.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Shuttle Tydirium Approaches Endor.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Speeder Bike Chase  Land Of The Ewoks.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Levitation  Threepio's Bedtime Story.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jabba's Baroque Recital.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Jedi Rocks.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Sail Barge Assault (Alternate).flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Parade Of The Ewoks.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Luke And Leia.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Brother And Sister  Father And Son  The Fleet Enters Hyperspace  Heroic Ewok.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Emperor's Throne Room.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Endor I.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Lightsaber  The Ewok Battle.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Endor II.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Battle Of Endor III.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Leia's News  Light Of The Force.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Victory Celebration  End Title.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Ewok Feast  Part Of The Tribe.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Forest Battle (Concert Suite).flac
 
 
