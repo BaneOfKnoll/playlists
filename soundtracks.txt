@@ -84,7 +84,6 @@ P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Willi
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Binary Sunset (Alternate).flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Princess Leia's Theme.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Destruction Of Alderaan.flac
-P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Millennium Falcon  Imperial Cruiser Pursuit.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - The Death Star  The Stormtroopers.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Wookie Prisoner  Detention Block Ambush.flac
 P:\Music\John Williams - Star Wars The Ultimate Soundtrack Collection\John Williams - Shootout In The Cell Bay  Dianoga.flac
@@ -580,3 +579,17 @@ https://music.youtube.com/playlist?list=OLAK5uy_ld_PF_7qYF3LoFg-jGUJjoVjfxonG9li
 #blade Runner
 https://music.youtube.com/playlist?list=OLAK5uy_nEkXGdjp7PUDnjGxIiIS6BHJwgSHm_jTk&feature=share
 
+#wonder Woman 1
+https://music.youtube.com/playlist?list=OLAK5uy_lPYEBLb25BRvydJ-Z4U6goe2JrlIEcYCQ&feature=share
+
+#star trek 
+https://music.youtube.com/playlist?list=OLAK5uy_mPQ6cFts-s-rCzLMGypvo8dGg0kd9skbQ&feature=share
+
+#Deadpool 
+https://music.youtube.com/playlist?list=OLAK5uy_kxH53YXRR4m2Wyt1wdrYq6t5lQdPB5G9A&feature=share
+
+#indiana Jones 
+https://music.youtube.com/playlist?list=OLAK5uy_mxpmrdhiVg3Qb2HRDLYMoFH-dDRLdPZQs&feature=share
+
+#jurassic park 
+https://music.youtube.com/playlist?list=OLAK5uy_lhO8jAXAej1T4nP75TvIco5JnjL_oADpc&feature=share
