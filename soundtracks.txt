@@ -596,3 +596,9 @@ https://music.youtube.com/playlist?list=OLAK5uy_lhO8jAXAej1T4nP75TvIco5JnjL_oADp
 
 #back to the future 
 https://music.youtube.com/playlist?list=PLAtB0SzMfkyx0A9tecQOCfLlG-gJvkm1o&feature=share
+
+#How to train your dragon 
+https://music.youtube.com/playlist?list=OLAK5uy_mZJMy9aqF3ew9kNoyIXX704dLo5x9Rse4&feature=share
+
+#HTTYD 2
+https://music.youtube.com/playlist?list=OLAK5uy_mZJMy9aqF3ew9kNoyIXX704dLo5x9Rse4&feature=share
