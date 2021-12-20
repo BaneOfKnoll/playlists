@@ -602,3 +602,6 @@ https://music.youtube.com/playlist?list=OLAK5uy_mZJMy9aqF3ew9kNoyIXX704dLo5x9Rse
 
 #HTTYD 2
 https://music.youtube.com/playlist?list=OLAK5uy_mZJMy9aqF3ew9kNoyIXX704dLo5x9Rse4&feature=share
+
+#Dune (2021)
+https://music.youtube.com/playlist?list=PLJIEpdZoj5dupexWNZzohZl0C6Fm27Hpe&feature=share
